@@ -1,3 +1,4 @@
+![logo](https://github.com/Zohaibdo/Zohaibdo/blob/main/-%20Youtube%20Banner.html)
 <h1 align="center">Hi 👋, I'm Zohaib khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <image align=”left” alt=”coding” width=”400” src=”https://miro.medium.com/v2/resize:fit:996/0*3KqIVCgU1DJMpUUb.gif”>
